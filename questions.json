@@ -1,0 +1,46 @@
+[
+  {
+    "question": "What is the main function of the command interpreter?",
+    "choice1": "to provide the interface between the API and application program",
+    "choice2": "to handle the files in the operating system",
+    "choice3": "to get and execute the next user-specified command",
+    "choice4": "none of the mentioned",
+    "answer": 3
+  },
+
+  {
+    "question": " In Operating Systems, which of the following is/are CPU scheduling algorithms?",
+    "choice1": "Priority",
+    "choice2": "Round Robin",
+    "choice3": "Shortest Job First",
+    "choice4": "All of the mentioned",
+    "answer": 4
+  },
+
+  {
+    "question": "To access the services of the operating system, the interface is provided by the",
+    "choice1": "Library",
+    "choice2": "System calls",
+    "choice3": "Assembly instructions",
+    "choice4": "API",
+    "answer": 2
+  },
+
+  {
+    "question": "CPU scheduling is the basis of",
+    "choice1": "multiprogramming operating systems",
+    "choice2": "larger memory sized systems",
+    "choice3": "multiprocessor systems",
+    "choice4": "all of the mentioned",
+    "answer": 1
+  },
+
+  {
+    "question": "What is an operating system?",
+    "choice1": "interface between the hardware and application programs",
+    "choice2": "collection of programs that manages hardware resources",
+    "choice3": "system service provider to the application programs",
+    "choice4": "all of the mentioned",
+    "answer": 4
+  }
+]
